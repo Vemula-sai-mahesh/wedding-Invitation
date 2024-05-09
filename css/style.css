@@ -644,10 +644,13 @@ a {
 	}
 	.title h3{
 		font-size: 12px;
+		letter-spacing: 2px;
 	}
 	.title p{
 		font-size: 10px;
 		margin: 8px 0 5px;
+		letter-spacing: 1px;
+		line-height: 15px;
 	}
 	#time{
 		margin-top: 180px;
