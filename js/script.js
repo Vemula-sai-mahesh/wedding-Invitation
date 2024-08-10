@@ -20,13 +20,13 @@
  * Listen here: https://youtu.be/X0MDALpV29s
  *
  */
-$(document).on('click', function(){
+$(document).ready(function(){
     document.getElementById("my_audio").play();
     console.log('Shaadi me zaroor aana');
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("Aug 22, 2024 00:00:00").getTime();
+var countDownDate = new Date("Aug 22, 2024 04:45:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
